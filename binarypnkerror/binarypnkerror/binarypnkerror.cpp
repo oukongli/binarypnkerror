@@ -7,9 +7,9 @@
 #include <iostream>
 #include <memory>
 #include <fstream>
-int p=3,q=2,n=3;
+int p=3,q=2,n=2;
 int tag=0;//linshi 
-#define length 27  //数组长度
+#define length 9  //数组长度
 using namespace std;
 #define MaxNum	(unsigned int)(pow(2,1.0*length)-1)
 
